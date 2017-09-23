@@ -1,5 +1,5 @@
 # rsschool-profile
-Tsybula Dmitry 
+Tsybulka Dmitry 
 HTML CSS Basics course: https://www.codecademy.com/users/Tsybulka/achievements
 
 
